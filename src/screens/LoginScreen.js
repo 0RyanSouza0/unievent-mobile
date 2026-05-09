@@ -8,6 +8,7 @@ import {
   StyleSheet,
   Text,
   TouchableOpacity,
+  View,
 } from "react-native";
 import AppLogo from "../components/common/AppLogo";
 import Button from "../components/common/Button";
@@ -266,4 +267,3 @@ const styles = StyleSheet.create({
     fontWeight: "900",
   },
 });
-
