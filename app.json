@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "unievent",
-    "slug": "snack-f69cc522-c9e8-4747-988e-b1a261017d8b",
+    "name": "UniEvent",
+    "slug": "unievent-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
